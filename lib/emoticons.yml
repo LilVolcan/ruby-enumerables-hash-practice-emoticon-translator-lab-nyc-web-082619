@@ -1,6 +1,6 @@
-angel:
-  - "O:)"      
-  - "☜(⌒▽⌒)☞"
+angel:            #meaning (key) and emoticons_array (values)
+  - "O:)"         #english_emoticons  = the keys inside the get_emoticon hash => japanese equivalent (value)
+  - "☜(⌒▽⌒)☞"     #japanese_emoticons = the keys inside the get_meaning hash => point to meaning (value)
 angry:
   - ">:("
   - "ヽ(ｏ`皿′ｏ)ﾉ"
@@ -14,7 +14,7 @@ embarrased:
   - ":$" 
   - "(#^.^#)"
 fish:
-  - "><>"
+  - "><>" 
   - ">゜))))彡"
 glasses:
   - "8D"
